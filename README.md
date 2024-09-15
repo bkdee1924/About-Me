@@ -7,32 +7,32 @@ Blending over 6+ years of experience as IT professional, including 1+ years as a
 
 
 ## 🔗 Links
-📍 Bengaluru
-📧 Email: contact@sajalsharma.com
-👨‍💻 GitHub: https://github.com/bkdee1924
+ 📍 Bengaluru
+ 📧 Email: contact@sajalsharma.com
+ 👨‍💻 GitHub: https://github.com/bkdee1924
 
 ## Professional Highlights 🌟
 
-1. Data Scientist    - (Jan 2024 - present)
-2. Data Engineer     - (Aug 2021 - Dec 2023)
-3. Robotics Engineer - (Nov 2017 - Aug 2020) 
+* Data Scientist    - (Jan 2024 - present)
+* Data Engineer     - (Aug 2021 - Dec 2023)
+* Robotics Engineer - (Nov 2017 - Aug 2020) 
 ## Tech Tools
 
-Languages : Python,SQL
-Tools : Abinitio, SQLserver,Oracle,jupyter,visual stidio
-FrameWorks & libraries : Sklearn,TensorFlow,Pytorch
+* Languages : Python,SQL
+* Tools : Abinitio, SQLserver,Oracle,jupyter,visual stidio
+* FrameWorks & libraries : Sklearn,TensorFlow,Pytorch
 
 ## Education
 
-Masters in Mechatronics, VIT university India
-Bachlores in Mechanical Engg, SRM University India
+* Masters in Mechatronics, VIT university India
+* Bachlores in Mechanical Engg, SRM University India
 
 
 
 ## Certifications
 
-IISc - Computational Data Science (currently pursving)
-Guvi - Deeplearning
-Intellipaat - Data Science Program
+1. IISc - Computational Data Science (currently pursving)
+2. Guvi - Deeplearning
+3. Intellipaat - Data Science Program
 
 
