@@ -22,9 +22,6 @@ Languages : Python,SQL
 Tools : Abinitio, SQLserver,Oracle,jupyter,visual stidio
 FrameWorks & libraries : Sklearn,TensorFlow,Pytorch
 
-
-
-
 ## Education
 
 Masters in Mechatronics, VIT university India
